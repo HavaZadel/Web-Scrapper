@@ -1,4 +1,4 @@
-# WebScrapper
+# Web Scrapper
 Web scrapper in Python of the website "https://www.rockchipfirmware.com/", downloads firmware files, and fetches their metadata. 
 
 ## Getting Started
@@ -17,3 +17,6 @@ To run it:
 ```bash
 python main.py https://www.rockchipfirmware.com/
 ```
+### Note
+
+Use of multiprocessing for improve processing speed
